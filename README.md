@@ -40,7 +40,7 @@ node -v
 ```
 It should return the version of Node.js.
 
-#Installing dependencies
+# Installing dependencies
 In order to run the bot, you need to open cmd.exe or terminal, and navigate to the Micro Buy Bot folder with the command:
 
 ```
