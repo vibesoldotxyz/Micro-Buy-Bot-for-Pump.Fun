@@ -114,6 +114,6 @@ const FEES =
 ```
 Happy bumping!
 
-If you are felling generous buy me a coffee!
+# If you are felling generous buy me a coffee!
 
 SOL adress: 3MvHN2S1biwmnBwmwZfiQLkAyaAzdhXatg2WXARPf9R6
