@@ -5,14 +5,14 @@ This bot automatically buys and sells on Pump.fun and Raydium.
 
 Ideal for showcasing on the Pump.fun main page.
 # Demo
-
+https://youtu.be/9BUO5agV5ZM
 # Download the bot
 If you have git installed on your computer you can fetch the content of this repository with the command
 
 ``` 
-git clone 
+git clone https://github.com/PasusS0ldev/Micro-Buy-Bot-for-Pump.Fun.git
 ```
-Else, you can download the repository in a zip here : 
+Else, you can download the repository in a zip here : https://github.com/PasusS0ldev/Micro-Buy-Bot-for-Pump.Fun/archive/refs/heads/main.zip
 
 # Setting up the bot
 
