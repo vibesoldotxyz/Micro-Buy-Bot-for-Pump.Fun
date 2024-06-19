@@ -105,7 +105,7 @@ const SOL_BUY_AMOUNT =
 Same goes for the slippage, it can be setup at the top of the script:
 
 ```
-const SLIPPAGE = 20; // here you can adjust the slippage
+const SLIPPAGE = 
 ```
 And the same applies for the fees (higher fees = faster speed):
 
