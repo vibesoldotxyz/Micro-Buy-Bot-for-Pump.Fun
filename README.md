@@ -69,7 +69,7 @@ const RPC_URL = ""; //
 const PRIVKEY = ""; // 
 const TOKEN_ADDR = ""; // 
 ```
-#Run the Bump Bot
+# Run the Bump Bot
 
 To run the bump bot, in cmd.exe or terminal, execute the following command:
 
@@ -114,6 +114,6 @@ const FEES =
 ```
 Happy bumping!
 
-# If you are felling generous buy me a coffee!
+# If you are feeling generous buy me a coffee!
 
 SOL adress: 3MvHN2S1biwmnBwmwZfiQLkAyaAzdhXatg2WXARPf9R6
