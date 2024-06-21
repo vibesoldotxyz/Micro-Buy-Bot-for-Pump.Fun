@@ -1,5 +1,5 @@
 # Micro-Buy-Bot-for-Pump.Fun
-A micro buy bot for pumping your pump.fun tokens. Using this bot your tokens will always be on the front page.
+A micro buy, bump bot for pumping your pump.fun tokens, the bot is free to use, however I would really appreciate if you could donate to my wallet at the bottom of the page, thank you! By using this bot your tokens will always be on the front page.
 # Description
 This bot automatically buys and sells on Pump.fun and Raydium.
 
